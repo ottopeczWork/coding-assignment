@@ -1,0 +1,19 @@
+{
+  "name": "superheroes-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuildCircle/superheroes-node.git"
+  },
+  "author": "Build Circle Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BuildCircle/superheroes-node/issues"
+  },
+  "homepage": "https://github.com/BuildCircle/superheroes-node#readme"
+}
