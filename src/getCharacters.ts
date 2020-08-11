@@ -1,13 +1,13 @@
-type Character = {
+export type Character = {
     name: string
     score: number
     type: string
 }
 
-type CharactersResponse = {
+export type CharactersResponse = {
     items: Character[]
 }
 
 export function getCharacters(): CharactersResponse {
-    throw new Error("Not implemented")
+  throw new Error("Not implemented")
 }
